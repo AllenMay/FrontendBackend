@@ -13,7 +13,7 @@ There are two repositories to download for our project - one for the front-end a
        /tweeter-client 
     ~~~
 
-## Step 2: Install required tools and they're are up to date:  
+## Step 2: Install requirements 
 ### MacOS 
 
 + For local development, we'll use **[Homebrew package manager](http://brew.sh/)** 
