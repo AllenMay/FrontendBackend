@@ -1,4 +1,4 @@
-# Laravel Project Walk-through 
+# EmberJS with Laravel API Project Walk-through 
 This documentation will walk you through configuring a front-end web application and it's back-end API data resource. 
 
 ## 1: Repositories
