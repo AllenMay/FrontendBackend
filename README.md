@@ -1,7 +1,7 @@
 # EmberJS with Laravel API Project Walk-through 
 This documentation will walk you through configuring a front-end web application and it's back-end API data resource. 
 
-## 1: Repositories
+## Step 1: Clone Repositories
 There are two repositories to download for our project - one for the front-end application and one for the back-end API.  
 
 + From your development folder, run the following to clone the project repositories:  
@@ -13,7 +13,7 @@ There are two repositories to download for our project - one for the front-end a
        /tweeter-client 
     ~~~
 
-## 2: Make sure you have the required tools and they're are up to date:  
+## Step 2: Install required tools and they're are up to date:  
 ### MacOS 
 
 + For local development, we'll use **[Homebrew package manager](http://brew.sh/)** 
