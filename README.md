@@ -37,6 +37,7 @@ For local development, we'll use **[Homebrew package manager](http://brew.sh/)**
     * `brew upgrade phantomjs` 
 
 ### Windows 
++ [PuPHPet](https://puphpet.com/) 
 
 - - -
 
